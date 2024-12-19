@@ -1,0 +1,7 @@
+.searchStyle {
+    display: flex;
+    align-items: center;
+  }
+.search{
+    margin-right: 8px;
+}

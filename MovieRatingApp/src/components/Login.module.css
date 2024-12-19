@@ -1,0 +1,17 @@
+.loginContainer {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+  }
+  
+  .loginButton {
+
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  
+  
